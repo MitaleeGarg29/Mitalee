@@ -22,9 +22,9 @@ I'm an **AI/ML Engineer** with an M.Sc. from **TU Darmstadt** 🇩🇪. I specia
 
 ### 🌟 Impact Highlights
 
-* [cite_start]📉 **Model Optimization:** Engineered a parameter-efficient GAN, reducing size from **212MB to 4.2MB** (50x reduction) for real-time deployment on NVIDIA Jetson Nano.
-* [cite_start]🧹 **Data Engineering:** Architected automated cleansing scripts at **Fraunhofer LBF** that reduced data noise by **57%** and improved efficiency by **47%**[cite: 27].
-* [cite_start]🏆 **Published Research:** Lead author of "Deep Generative Model for Single Dehazing on Embedded Platform," published in **IEEE TENSYMP 2020**.
+* 📉 **Model Optimization:** Engineered a parameter-efficient GAN, reducing size from **212MB to 4.2MB** (50x reduction) for real-time deployment on NVIDIA Jetson Nano.
+* 🧹 **Data Engineering:** Architected automated cleansing scripts at **Fraunhofer LBF** that reduced data noise by **57%**.
+* 🏆 **Published Research:** Lead author of "Deep Generative Model for Single Dehazing on Embedded Platform," published in **IEEE TENSYMP 2020**.
 
 ---
 
@@ -36,7 +36,7 @@ I'm an **AI/ML Engineer** with an M.Sc. from **TU Darmstadt** 🇩🇪. I specia
 ---
 
 ### 💬 Let's Connect!
-- [cite_start]📍 Currently based in **Surat, India**[cite: 4].
-- [cite_start]🇩🇪 Proficiency in **German (B1, actively improving to B2)**.
-- [cite_start]📫 Reach me at: [gargmitaleee@gmail.com](mailto:gargmitaleee@gmail.com)[cite: 3].
-- [cite_start]🔗 LinkedIn: [Mitalee Garg](https://www.linkedin.com/in/mitaleegarg)[cite: 6].
+* 📍 Currently based in **Surat, India**.
+* 🇩🇪 Proficiency in **German (B1, actively improving to B2)**.
+* 📫 Reach me at: [gargmitaleee@gmail.com](mailto:gargmitaleee@gmail.com).
+* 🔗 LinkedIn: [Mitalee Garg](https://www.linkedin.com/in/mitaleegarg)
