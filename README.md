@@ -1,13 +1,11 @@
-My portfolio as an AI/ML Engineer
-
 # Hi, I'm Mitalee! 👋 
 
-I'm an **AI/ML Engineer** with a Master’s from **TU Darmstadt** 🇩🇪. I don't just build models; [cite_start]I focus on making them **faster, smaller, and smarter** for the real world. [cite_start]Whether it's optimizing Transformers for geospatial logistics or deploying lightweight GANs on edge devices, I love the challenge of hardware-constrained AI.
+I'm an **AI/ML Engineer** with an M.Sc. from **TU Darmstadt** 🇩🇪. I specialize in building models that are **faster, smaller, and smarter** for real-world deployment. Whether it's optimizing Transformers for geospatial logistics or deploying lightweight GANs on edge devices, I thrive on the challenge of hardware-constrained AI.
 
-### What I’m currently up to:
-* [cite_start]🚀 **hessian.AI:** Modernizing HPC dashboards to track AI performance across 7 German universities.
-* [cite_start]🧠 **Deep Learning:** Refactoring my thesis work on Differentiable Threshold Optimization.
-* [cite_start]🤖 **GenAI:** Experimenting with RAG pipelines and LLM automation.
+### 🔭 What I’m currently up to:
+* 🚀 **hessian.AI:** Modernizing internal HPC dashboards with Grafana and Python to track AI platform performance.
+* 🧠 **Deep Learning:** Refining my thesis work on Differentiable Threshold Optimization for geospatial data.
+* 🤖 **GenAI:** Experimenting with RAG pipelines, LLM automation, and Hugging Face models.
 
 ---
 
@@ -15,22 +13,22 @@ I'm an **AI/ML Engineer** with a Master’s from **TU Darmstadt** 🇩🇪. I do
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white) |
 | **AI/ML Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange?style=for-the-badge) |
-| **Computer Vision** | [cite_start]`YOLO` `OpenCV` `GANs` `Image Dehazing`  |
+| **Computer Vision** | `YOLO` `OpenCV` `GANs` `Image Dehazing` `TensorRT` |
 | **Tools & Ops** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) |
 
 ---
 
 ### 🌟 Impact Highlights
 
-* [cite_start]📉 **Model Shrinkage:** Optimized a GAN from **212MB to 4.2MB** (50x reduction) for real-time use on NVIDIA Jetson platforms.
-* [cite_start]🧹 **Data Engineering:** Architected automated pipelines at **Fraunhofer LBF** that slashed data noise by **57%**.
-* [cite_start]🏆 **Published Research:** Lead author on a deep generative model for image de-hazing published in **IEEE TENSYMP**.
+* [cite_start]📉 **Model Optimization:** Engineered a parameter-efficient GAN, reducing size from **212MB to 4.2MB** (50x reduction) for real-time deployment on NVIDIA Jetson Nano.
+* [cite_start]🧹 **Data Engineering:** Architected automated cleansing scripts at **Fraunhofer LBF** that reduced data noise by **57%** and improved efficiency by **47%**[cite: 27].
+* [cite_start]🏆 **Published Research:** Lead author of "Deep Generative Model for Single Dehazing on Embedded Platform," published in **IEEE TENSYMP 2020**.
 
 ---
 
-### 📊 My GitHub Journey
+### 📊 GitHub Insights
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=MitaleeGarg29&show_icons=true&theme=radical&hide_border=true" alt="Mitalee's Stats" />
 </p>
@@ -38,7 +36,7 @@ I'm an **AI/ML Engineer** with a Master’s from **TU Darmstadt** 🇩🇪. I do
 ---
 
 ### 💬 Let's Connect!
-- [cite_start]📍 Currently based in **Surat, India**.
-- [cite_start]🇩🇪 Proficiency in **German (B1/B2)**.
-- [cite_start]📫 Reach me at: [gargmitaleee@gmail.com](mailto:gargmitaleee@gmail.com).
-- 🔗 LinkedIn: [Mitalee Garg](https://www.linkedin.com/in/mitaleegarg)
+- [cite_start]📍 Currently based in **Surat, India**[cite: 4].
+- [cite_start]🇩🇪 Proficiency in **German (B1, actively improving to B2)**.
+- [cite_start]📫 Reach me at: [gargmitaleee@gmail.com](mailto:gargmitaleee@gmail.com)[cite: 3].
+- [cite_start]🔗 LinkedIn: [Mitalee Garg](https://www.linkedin.com/in/mitaleegarg)[cite: 6].
