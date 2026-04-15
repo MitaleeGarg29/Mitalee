@@ -28,13 +28,6 @@ I'm an **AI/ML Engineer** with an M.Sc. from **TU Darmstadt** 🇩🇪. I specia
 
 ---
 
-### 📊 GitHub Insights
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MitaleeGarg29&show_icons=true&theme=radical&hide_border=true" alt="Mitalee's Stats" />
-</p>
-
----
-
 ### 💬 Let's Connect!
 * 📍 Currently based in **Surat, India**.
 * 🇩🇪 Proficiency in **German (B1, actively improving to B2)**.
